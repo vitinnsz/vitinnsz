@@ -3,7 +3,7 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vitinnsz&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=pt-br&hide_border=false&custom_title=Status" width="400" alt="stats graph" />
+  <img src="https://github-readme-stats-two-teal-98.vercel.app//api?username=vitinnsz&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=pt-br&hide_border=false&custom_title=Status" width="400" alt="stats graph" />
   <img src="https://streak-stats.demolab.com?user=vitinnsz&locale=pt-br&mode=weekly&theme=github_dark&hide_border=false&border_radius=5&date_format=n/j%5B/Y%5D" width="400" alt="streak graph" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=vitinnsz&locale=pt-br&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=github_dark&hide_border=false&custom_title=Linguagens" width="400" alt="languages graph" />
 </div>
