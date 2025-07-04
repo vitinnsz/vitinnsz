@@ -3,9 +3,9 @@
 ---
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vitinnsz&show_icons=true&count_private=true&theme=github_dark&hide_border=false&locale=pt-br&custom_title=Status" width="400" />
-  <img src="https://streak-stats.demolab.com?user=vitinnsz&theme=github_dark&hide_border=false&locale=pt-br" width="400" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=vitinnsz&layout=compact&langs_count=8&theme=github_dark&hide_border=false&locale=pt-br" width="400" />
+  <img src="https://github-readme-stats.vercel.app/api?username=vitinnsz&show_icons=true&count_private=true&theme=github_dark&hide_border=false&locale=pt-br&custom_title=Status" width="320" />
+  <img src="https://streak-stats.demolab.com?user=vitinnsz&theme=github_dark&hide_border=false&locale=pt-br" width="320" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=vitinnsz&layout=compact&langs_count=8&theme=github_dark&hide_border=false&locale=pt-br" width="320" />
 </div>
 
 ---
@@ -53,7 +53,7 @@
 <h3 align="center">🐍 GitHub Snake</h3>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/vitinnsz/vitinnsz/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/vitinnsz/vitinnsz/output/github-contribution-grid-snake.svg" width="720" alt="Snake animation" />
 </div>
 
 ---
